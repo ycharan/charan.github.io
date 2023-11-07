@@ -1,0 +1,562 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    height:120px;
+    width:120px;
+    margin-left:2rem;
+    margin-top:1.5rem;
+}
+
+.header{
+    display: flex;
+    gap:2rem;
+    font-size: 1.3rem;
+    list-style: none;
+    background-color: black;
+    
+}
+a{
+    text-decoration: none;
+    color:#fff;
+}
+
+a:hover{
+    color: rgb(248, 156, 156);
+}
+
+.home1{
+    display: flex;
+    flex-direction: row;
+    gap:7.9rem;
+    margin-left:4rem;
+    margin-top:3.6rem;
+}
+
+.home2{
+    display: flex;
+    flex-direction: row;
+    gap:9rem;
+    margin-left:3rem;
+    margin-top: 3.6rem;
+
+}
+
+i{
+    color: #fff;
+    font-size: 1.7rem;
+}
+
+.ic{
+    display: none;
+}
+.para{
+    color: #fff;
+    font-size: 1rem;
+    margin-top: 4rem;
+
+}
+
+h2{
+    margin-left: 36rem;
+    margin-top: 2rem;
+    font-size: 2rem;
+}
+.img{
+    margin-left: 34rem;
+}
+
+h3{
+    margin-left: 35rem;
+    font-size: 2rem;
+}
+
+p{
+    font-size: 2rem;
+}
+
+h4{
+    font-size:4rem;
+    margin-top: 4rem;
+    margin-left:26rem;
+    color:rgb(61, 61, 61);
+}
+
+p1{
+    margin-top:3rem;
+    font-size: 2rem;
+    margin-left:13rem;
+    text-decoration: underline;
+    color: rgb(83, 80, 80);
+}
+
+.pro1{
+    border:1px solid rgb(20, 15, 20);
+    background-color:#fff;
+    margin-left:5rem;
+    margin-top: 4rem;
+    border-color: #cac5c5;
+    border-radius: 3% 3% 3% 3%;
+    height:29rem;
+    width:250px;
+}
+
+.igs{
+    margin-left:1.5rem;
+    margin-top:3rem;
+    height:200px;
+    width:200px;
+}
+h5{
+    margin-top:1.4rem;
+    margin-left:3rem;
+    font-size: 1.1rem;
+}
+
+h6{
+    margin-left: 4.5rem;
+    margin-top:1.1rem;
+    font-size: 1rem;
+}
+
+.now{
+    margin-left:4.5rem;
+    margin-top:1rem;
+    font-size:1.5rem;
+}
+.io{
+    color: black;
+}
+
+.irg{
+    margin-top:-0.8px;
+    width: 55px;
+    height:55px;
+    display: flex;
+    flex-direction: row;
+}
+
+li{
+    list-style: none;
+}
+
+.irq{
+    margin-left:10rem;
+    width:44px;
+    height:44px;
+    margin-top: -2.8rem;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+
+
+
+
+.pro2{
+    border:1px solid rgb(20, 15, 20);
+    background-color:#fff;
+    border-color: #cac5c5;
+    border-radius: 3% 3% 3% 3%;
+    height:29rem;
+    width:250px;
+    margin-left: 20rem;
+    margin-top: -28rem;
+}
+
+.pro3{
+    border:1px solid rgb(20, 15, 20);
+    background-color:#fff;
+    border-color: #cac5c5;
+    border-radius: 3% 3% 3% 3%;
+    height:29rem;
+    width:250px;
+    margin-top: -28rem;
+    margin-left: 20rem;
+}
+
+.pro4{
+    border:1px solid rgb(20, 15, 20);
+    background-color:#fff;
+    border-color: #cac5c5;
+    border-radius: 3% 3% 3% 3%;
+    height:29rem;
+    width:250px;
+    margin-top: -28rem;
+    margin-left: 18rem;
+}
+
+.pro5{
+    border:1px solid rgb(20, 15, 20);
+    background-color:#fff;
+    border-color: #cac5c5;
+    border-radius: 3% 3% 3% 3%;
+    height:29rem;
+    width:250px;
+    margin-top: 4rem;
+    margin-left: -58.1rem;
+}
+
+
+.pro6{
+    border:1px solid rgb(20, 15, 20);
+    background-color:#fff;
+    border-color: #cac5c5;
+    border-radius: 3% 3% 3% 3%;
+    height:29rem;
+    width:250px;
+    margin-top: -28.1rem;
+    margin-left: 20rem;
+}
+
+
+.rece{
+    margin-left: -25rem;
+    margin-top: 6rem;
+    font-size: 4rem;
+}
+
+.keba{
+    margin-left:1rem;
+    margin-top: 2rem;
+    height:22rem;
+    width: 22rem;
+    border: 3px solid rgb(249, 249, 249);
+}
+
+.keba:hover{
+ border-color:rgb(28, 28, 25);
+}
+
+.youtube{
+    margin-left: 25rem ;
+    margin-top: 4rem;
+    border-radius: 50%;
+    border:3px solid rgb(255, 248, 248);
+}
+.youtube:hover{
+    border-color:rgb(15, 15, 15);
+}
+
+.img9{
+    margin-top: -9rem;
+    margin-left: 25rem;
+    margin-top: -24.7rem;
+}
+
+.img8{
+    margin-top: -9rem;
+    margin-left:51rem;
+    margin-top: -24.4rem;
+}
+
+
+.contact{
+    height:20rem;
+    background-color: black;
+    margin-top: 7rem;
+    width:79rem;
+    margin-left: -25.2rem;
+}
+
+.sp{
+    color: rgb(248, 239, 239);
+    display: flex;
+    flex-direction: column;
+    margin-left: 19rem;
+    margin-top: -16rem;
+    gap: 1rem;;
+    font-size: 1rem;
+
+
+}
+
+.sp1{
+    color: rgb(248, 239, 239);
+    display: flex;
+    flex-direction: column;
+    margin-left: 30rem;
+    margin-top: -12rem;
+    gap: 1rem;;
+    font-size: 1rem;
+
+}
+
+.sp2{
+    color: rgb(248, 239, 239);
+    display: flex;
+    flex-direction: column;
+    margin-left: 43rem;
+    margin-top: -6rem;
+    gap: 1rem;;
+    font-size: 1rem;
+}
+
+.google{
+margin-top: -12.5rem;
+margin-left: 14.8rem;
+}
+span{
+    font-size: 1.2rem;
+}
+
+
+.iq{
+    width:15rem;
+    height: 15rem;
+
+}
+
+.photo{
+    margin-left: -4rem;
+    margin-top: -5rem;
+    color: #fff;
+    cursor: pointer;
+}
+.pho{
+    width:2rem;
+    height:2rem;
+}
+
+.copy{
+    height: 3rem;
+    width:78.9rem;
+    background-color: black;
+    border: 1px solid #fff;
+    margin-top: 1rem;
+    color: #fff;
+}
+
+.sss{
+    margin-left: 25rem;
+}
+
+
+
+
+.keba1{
+    height:22rem;
+    width: 22rem;
+}
+
+section{
+    font-size:2rem;
+    margin-left:36rem;
+    margin-top: -8rem;
+}
+
+
+
+
+
+@media(max-width:600px){
+
+    .ic{
+        display: inline;
+    }
+    .home1{
+
+        display: none;
+    }
+
+    .home2{
+
+        display: none;
+    }
+
+    .about{
+        margin-top:rem;
+    }
+    .header{
+        height:29rem;
+        width:97.8rem;
+        background-color: black;
+    }
+     .logo1{
+        height:29.1rem;
+        width:0;
+        background-color: black;
+     }
+
+     .logo2{
+        width:30rem;
+        height:30rem;
+        margin-top: -1rem;
+        margin-left: -2rem;
+     }
+     h2{
+        font-size: 5rem;
+     }
+     h4{
+        font-size: 5rem;
+        margin-left:30rem;
+     }
+     h3{
+        font-size: 5rem;
+     }
+     .product{
+        height: 12rem;
+        width: 78rem;
+     }
+     p1{
+        font-size: 4rem;
+        height:2rem;
+        width:78rem;
+        color: rgb(18, 18, 18);
+
+     }
+     p{
+        text-align: center;
+        height:30rem;
+        width:78rem;
+        border: 1px solid #fff;
+        font-size: 4rem;
+        margin-left: 9rem;
+     }
+
+     img{
+        height:15rem;
+        width: 15rem;
+     }
+     h5{
+        font-size: 3.5rem;
+     }
+     h6{
+        font-size: 4rem;
+     }
+     .now{
+        font-size: 4rem;
+     }
+     .irg{
+        height:10rem;
+        width: 10rem;
+     }
+     .irq{
+        height: 10rem;
+        width:10rem;
+        margin-left:25rem;
+        margin-top: -9.6rem;
+     }
+     .product1{
+        height:100rem;
+        width:78rem;
+
+     }
+
+     .pro1{
+        margin-left:5rem;
+        margin-top: 13rem;
+        width:43rem;
+        height:76rem;
+     }
+     .pro2{
+       margin-top:-74rem;
+       margin-left:50rem;
+       height: 76rem;
+       width: 43rem;
+     }
+     .pro3{
+        margin-top: 8rem;
+        margin-left:-50rem;
+        height: 76rem;
+        width:43rem;
+     }
+     .pro4{
+        margin-top: -74.5rem;
+        margin-left:50rem;
+        height: 76rem;
+        width:43rem;
+     }
+     .pro5{
+        margin-top:8rem;
+        margin-left:-50rem;
+        height: 76rem;
+        width: 43rem;
+     }
+     .pro6{
+        margin-top: -74rem;
+        margin-left:50rem;
+        height: 76rem;
+        width: 43rem;
+     }
+     h2{
+        margin-left: 18rem;
+     }
+     .youtube{
+        height: 20rem;
+        width:20rem;
+        margin-left:15rem;
+     }
+     .keba{
+        height:34rem;
+        width: 34rem;
+        display: none;
+     }
+     .img9{
+        margin-left: -29rem;
+        margin-top: 7rem;
+     }
+     .img8{
+        margin-left:22rem;
+
+        margin-top:-46rem;
+     }
+
+     .keba1{
+        width: 44rem;
+        height: 44rem;
+     }
+     section{
+        font-size: 4.5rem;
+        margin-top: -15rem;
+     }
+     .contact{
+        margin-left:-55rem;
+        width: 98rem;
+        height:38.8rem;
+     }
+     .copy{
+        height: 3rem;
+        width:97.8rem;
+        margin-top: 5rem;
+     }
+
+     .sp2{
+        font-size: 2rem;
+        margin-left: 55rem;
+        margin-top: -13rem;
+     }
+     iframe{
+        margin-top: -4rem;
+        margin-left: 11rem;
+     }
+     .photo{
+        margin-top: 2rem;
+     }
+     .pho{
+        width:5rem;
+        height:5rem;
+
+     }
+     span{
+        font-size: 3rem;
+     }
+     .sp{
+        font-size: 2rem;
+     }
+     .sp1{
+        font-size: 2rem;
+        margin-top:-17rem;
+     }
+     .igs{
+        height:40rem;
+        width: 40rem;
+
+     }
+
+     
+     
+}
